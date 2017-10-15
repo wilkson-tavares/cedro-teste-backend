@@ -1,0 +1,11 @@
+D:\wil\projetos\Projetos\cedro-avaliacao-tecnica\cedro-teste-backend\cedro-teste-backend\bin\Debug\netcoreapp2.0\cedro-teste-backend.deps.json
+D:\wil\projetos\Projetos\cedro-avaliacao-tecnica\cedro-teste-backend\cedro-teste-backend\bin\Debug\netcoreapp2.0\cedro-teste-backend.runtimeconfig.json
+D:\wil\projetos\Projetos\cedro-avaliacao-tecnica\cedro-teste-backend\cedro-teste-backend\bin\Debug\netcoreapp2.0\cedro-teste-backend.runtimeconfig.dev.json
+D:\wil\projetos\Projetos\cedro-avaliacao-tecnica\cedro-teste-backend\cedro-teste-backend\bin\Debug\netcoreapp2.0\cedro-teste-backend.dll
+D:\wil\projetos\Projetos\cedro-avaliacao-tecnica\cedro-teste-backend\cedro-teste-backend\bin\Debug\netcoreapp2.0\cedro-teste-backend.pdb
+D:\wil\projetos\Projetos\cedro-avaliacao-tecnica\cedro-teste-backend\cedro-teste-backend\obj\Debug\netcoreapp2.0\cedro-teste-backend.csprojResolveAssemblyReference.cache
+D:\wil\projetos\Projetos\cedro-avaliacao-tecnica\cedro-teste-backend\cedro-teste-backend\obj\Debug\netcoreapp2.0\cedro-teste-backend.csproj.CoreCompileInputs.cache
+D:\wil\projetos\Projetos\cedro-avaliacao-tecnica\cedro-teste-backend\cedro-teste-backend\obj\Debug\netcoreapp2.0\cedro-teste-backend.AssemblyInfoInputs.cache
+D:\wil\projetos\Projetos\cedro-avaliacao-tecnica\cedro-teste-backend\cedro-teste-backend\obj\Debug\netcoreapp2.0\cedro-teste-backend.AssemblyInfo.cs
+D:\wil\projetos\Projetos\cedro-avaliacao-tecnica\cedro-teste-backend\cedro-teste-backend\obj\Debug\netcoreapp2.0\cedro-teste-backend.dll
+D:\wil\projetos\Projetos\cedro-avaliacao-tecnica\cedro-teste-backend\cedro-teste-backend\obj\Debug\netcoreapp2.0\cedro-teste-backend.pdb
